@@ -7,7 +7,7 @@ How to use it?
 Highlight
 How to run test?
 Test Report and Log
-Troubleshooting
+To Do
 
 
 #Introduction
@@ -43,3 +43,6 @@ Common options include:
   
 #Test Report and Log
 The html format test report and log can be found within: ...\DeckOfCardsTesting\TestResults.
+
+#To Do
+This is the intial version, more enhancements and changes will be made in future.
