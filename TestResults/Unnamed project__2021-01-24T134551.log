@@ -1,0 +1,223 @@
+﻿2021-01-24T13:45:51.8604157-05:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-01-24T13:45:51.8605304-05:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.22 in Framework netcore31 in x64 mode execution started
+2021-01-24T13:45:51.8605362-05:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-01-24T13:45:51.8612883-05:00;VSTestExecutionThread;Info;Current UserName: 'yjxyu', MachineName: 'DESKTOP-4VHBQP4'
+2021-01-24T13:45:51.9055860-05:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\DeckOfCardsTesting.dll
+2021-01-24T13:45:51.9062398-05:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\yjxyu\source\repos\DeckOfCardsTesting\TestResults" (default)
+2021-01-24T13:45:51.9064384-05:00;VSTestExecutionThread;Info;Profile: 
+2021-01-24T13:45:51.9940916-05:00;VSTestExecutionThread;Info;Log file path: C:\Users\yjxyu\source\repos\DeckOfCardsTesting\TestResults\Unnamed project__2021-01-24T134551.log
+2021-01-24T13:45:52.0087969-05:00;Thread#12;Info;Checking activation
+2021-01-24T13:45:52.0265295-05:00;Thread#12;Info;Activation check completed
+2021-01-24T13:45:52.0270592-05:00;Thread#12;Info;Starting test run
+2021-01-24T13:45:52.2048058-05:00;Thread#12;Info;Discovering target: Default
+2021-01-24T13:45:52.2051190-05:00;Thread#12;Info;Discovering tests from assembly: C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\DeckOfCardsTesting.dll
+2021-01-24T13:45:52.4195908-05:00;Thread#12;Info;Discovered tests from assembly: C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\DeckOfCardsTesting.dll
+2021-01-24T13:45:52.4214124-05:00:Test Suite Dump
+2021-01-24T13:45:52.4259116-05:00:#0: Unnamed project/ - 
+2021-01-24T13:45:52.4259439-05:00:#1: Default - 
+2021-01-24T13:45:52.4259481-05:00:#2: DeckOfCardsTesting - 
+2021-01-24T13:45:52.4259518-05:00:#3: Req002 - DrawCards - 
+2021-01-24T13:45:52.4260054-05:00:#4: TC_ST_L1_DrawCards_P0001 - shuffle a deck of cards, draw one or more cards from a deck, Variant 0 - TestAssembly:DeckOfCardsTesting/Feature:Req002+-+DrawCards/Scenario:TC_ST_L1_DrawCards_P0001+-+shuffle+a+deck+of+cards%2c+draw+one+or+more+cards+from+a+deck%2c+Variant+0
+2021-01-24T13:45:52.4260233-05:00:#5: TC_ST_L1_DrawCards_P0001 - shuffle a deck of cards, draw one or more cards from a deck, Variant 1 - TestAssembly:DeckOfCardsTesting/Feature:Req002+-+DrawCards/Scenario:TC_ST_L1_DrawCards_P0001+-+shuffle+a+deck+of+cards%2c+draw+one+or+more+cards+from+a+deck%2c+Variant+1
+2021-01-24T13:45:52.4261046-05:00:End: Test Suite Dump
+2021-01-24T13:45:52.4631668-05:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-24T13:45:52.4681258-05:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-01-24T13:45:52.4683450-05:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-01-24T13:45:52.4744995-05:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-24T13:45:52.4745260-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-01-24T13:45:52.4745322-05:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-01-24T13:45:52.4745381-05:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-01-24T13:45:52.4760731-05:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-01-24T13:45:52.4802754-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-24T13:45:52.4842455-05:00:Thread #0: creating new test thread executor for DeckOfCardsTesting, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-01-24T13:45:52.4878116-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-01-24T13:45:52.4883313-05:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-01-24T13:45:52.5040633-05:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-01-24T13:45:52.5083406-05:00:starting Out Of Process Executor
+2021-01-24T13:45:52.5122703-05:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-01-24T13:45:52.5187608-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-01-24T13:45:52.5187954-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-01-24T13:45:52.5210894-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:52.5219769-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-01-24T13:45:52.5221878-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Validation.exe'
+2021-01-24T13:45:52.5222951-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:52.5227739-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-01-24T13:45:52.5238845-05:00:Tfm: netcoreapp3.1
+2021-01-24T13:45:52.5239108-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-01-24T13:45:52.5239153-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll'
+2021-01-24T13:45:52.5240662-05:00:[AssemblyCache] Found file 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll' for assembly 'Microsoft.VisualStudio.Validation'
+2021-01-24T13:45:52.5250256-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Validation' to C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Validation.dll
+2021-01-24T13:45:52.5262084-05:00:Starting callback TCP Rpc server
+2021-01-24T13:45:52.5598944-05:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-01-24T13:45:52.5599883-05:00:Started callback TCP Rpc server on port 32768
+2021-01-24T13:45:52.5600018-05:00:Starting logger TCP Rpc server
+2021-01-24T13:45:52.5641320-05:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-01-24T13:45:52.5641868-05:00:Started logger TCP Rpc server on port 32769
+2021-01-24T13:45:52.7028051-05:00:Executing test executor at 'dotnet' 'exec "C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp3_1.dll" --remoteRunnerPid 2792 --uniqueId "2021-01-24T134551" --outputFolder "C:\Users\yjxyu\source\repos\DeckOfCardsTesting\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:52.7200412-05:00:Executor with PID 20144 has been started successfully.
+2021-01-24T13:45:52.7248864-05:00:Out of Process Executor 20144 started
+2021-01-24T13:45:52.7249063-05:00:Waiting for endpoint
+2021-01-24T13:45:53.3616124-05:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-01-24T13:45:53.3616531-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-01-24T13:45:53.3616620-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-01-24T13:45:53.3616702-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:53.3616766-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-01-24T13:45:53.3618426-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Threading.exe'
+2021-01-24T13:45:53.3620625-05:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:53.3620988-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-01-24T13:45:53.3621639-05:00:Tfm: netcoreapp3.1
+2021-01-24T13:45:53.3621734-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-01-24T13:45:53.3621779-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll'
+2021-01-24T13:45:53.3623477-05:00:[AssemblyCache] Found file 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll' for assembly 'Microsoft.VisualStudio.Threading'
+2021-01-24T13:45:53.3634629-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.Threading' to C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\Microsoft.VisualStudio.Threading.dll
+2021-01-24T13:45:54.3178294-05:00:Remote executor port received: 32770
+2021-01-24T13:45:54.3191912-05:00:Creating executor TCP client on port 32770
+2021-01-24T13:45:54.3207093-05:00:Created executor TCP client on port 32770
+2021-01-24T13:45:54.3207403-05:00:Connecting to remote executor TCP server
+2021-01-24T13:45:54.3237091-05:00:Connected remote executor TCP server
+2021-01-24T13:45:54.3244963-05:00:trying to connect to Out of Process Executor the 1 attempt
+2021-01-24T13:45:54.3245459-05:00:Connection to Out of Process Executor established in the 1 attempt
+2021-01-24T13:45:54.5372672-05:00:2021-01-24T13:45:54.5350453-05:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\DeckOfCardsTesting.dll on test thread #0
+2021-01-24T13:45:54.5444795-05:00:Endpoint 20144 started
+2021-01-24T13:45:54.5674858-05:00:2021-01-24T13:45:54.5668664-05:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-01-24T13:45:54.7001904-05:00:2021-01-24T13:45:54.6997563-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.5.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-01-24T13:45:54.7042320-05:00:2021-01-24T13:45:54.7038022-05:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-01-24T13:45:54.7078931-05:00:2021-01-24T13:45:54.7074616-05:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\yjxyu\.nuget\packages\specflow\3.5.5\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-01-24T13:45:54.8314149-05:00:2021-01-24T13:45:54.8309774-05:00:Thread#0:T:-> Loading plugin C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\LivingDoc.SpecFlowPlugin.dll
+2021-01-24T13:45:54.8415994-05:00:2021-01-24T13:45:54.8411768-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.4.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-01-24T13:45:54.8436582-05:00:2021-01-24T13:45:54.8432615-05:00:Assembly resolving LivingDoc.Dtos, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null
+2021-01-24T13:45:54.8446381-05:00:2021-01-24T13:45:54.8439478-05:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-01-24T13:45:54.8463907-05:00:2021-01-24T13:45:54.8452876-05:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\yjxyu\.nuget\packages\specflow.plus.livingdocplugin\3.5.286\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-01-24T13:45:54.8501610-05:00:2021-01-24T13:45:54.8497184-05:00:Thread#0:T:-> Loading plugin C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-01-24T13:45:54.8597449-05:00:2021-01-24T13:45:54.8593148-05:00:Assembly resolving TechTalk.SpecFlow, Version=3.5.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-01-24T13:45:54.8658213-05:00:2021-01-24T13:45:54.8653992-05:00:Thread#0:T:-> Using default config
+2021-01-24T13:45:54.8780612-05:00:2021-01-24T13:45:54.8776449-05:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-01-24T13:45:54.8787402-05:00:2021-01-24T13:45:54.8783678-05:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-01-24T13:45:54.8797374-05:00:2021-01-24T13:45:54.8793307-05:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\yjxyu\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-01-24T13:45:54.8815417-05:00:2021-01-24T13:45:54.8810825-05:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-01-24T13:45:54.8821902-05:00:2021-01-24T13:45:54.8819063-05:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-01-24T13:45:54.8830009-05:00:2021-01-24T13:45:54.8826819-05:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\yjxyu\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-01-24T13:45:54.8941876-05:00:2021-01-24T13:45:54.8937869-05:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-01-24T13:45:54.8948171-05:00:2021-01-24T13:45:54.8944878-05:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-01-24T13:45:54.8959707-05:00:2021-01-24T13:45:54.8955492-05:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\yjxyu\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-01-24T13:45:54.9320100-05:00:2021-01-24T13:45:54.9316057-05:00:Assembly resolving Utf8Json, Version=1.3.7.0, Culture=neutral, PublicKeyToken=8a73d3ba7e392e27
+2021-01-24T13:45:54.9326893-05:00:2021-01-24T13:45:54.9323563-05:00:[AssemblyCache] Trying to resolve 'Utf8Json' from .deps.json file
+2021-01-24T13:45:54.9334951-05:00:2021-01-24T13:45:54.9331707-05:00:[AssemblyCache] Resolved 'Utf8Json' to 'C:\Users\yjxyu\.nuget\packages\utf8json\1.3.7\lib\netstandard2.0\Utf8Json.dll'
+2021-01-24T13:45:55.1564622-05:00:Thread#0: Test #4/0 is started on thread #0
+2021-01-24T13:45:55.2017039-05:00:2021-01-24T13:45:55.2009007-05:00:Thread#0:B:Given user shuffle 1 deck of cards with True
+2021-01-24T13:45:55.2305444-05:00:2021-01-24T13:45:55.2297464-05:00:Assembly resolving RestSharp, Version=106.11.7.0, Culture=neutral, PublicKeyToken=598062e77f915f75
+2021-01-24T13:45:55.2313136-05:00:2021-01-24T13:45:55.2309227-05:00:[AssemblyCache] Trying to resolve 'RestSharp' from .deps.json file
+2021-01-24T13:45:55.2323536-05:00:2021-01-24T13:45:55.2319113-05:00:[AssemblyCache] Resolved 'RestSharp' to 'C:\Users\yjxyu\.nuget\packages\restsharp\106.11.7\lib\netstandard2.0\RestSharp.dll'
+2021-01-24T13:45:55.2349544-05:00:2021-01-24T13:45:55.2344622-05:00:Assembly resolving Microsoft.Extensions.Configuration.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2356174-05:00:2021-01-24T13:45:55.2352849-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Abstractions' from .deps.json file
+2021-01-24T13:45:55.2409740-05:00:2021-01-24T13:45:55.2362601-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Abstractions' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.configuration.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.Abstractions.dll'
+2021-01-24T13:45:55.2430357-05:00:2021-01-24T13:45:55.2425603-05:00:Assembly resolving Microsoft.Extensions.Configuration, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2437232-05:00:2021-01-24T13:45:55.2433643-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration' from .deps.json file
+2021-01-24T13:45:55.2447965-05:00:2021-01-24T13:45:55.2443443-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.configuration\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.dll'
+2021-01-24T13:45:55.2469769-05:00:2021-01-24T13:45:55.2462455-05:00:Assembly resolving Microsoft.Extensions.Configuration.FileExtensions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2478018-05:00:2021-01-24T13:45:55.2474517-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.FileExtensions' from .deps.json file
+2021-01-24T13:45:55.2489275-05:00:2021-01-24T13:45:55.2484555-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.FileExtensions' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.configuration.fileextensions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.Configuration.FileExtensions.dll'
+2021-01-24T13:45:55.2510033-05:00:2021-01-24T13:45:55.2505411-05:00:Assembly resolving Microsoft.Extensions.Configuration.Json, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2517480-05:00:2021-01-24T13:45:55.2513955-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Configuration.Json' from .deps.json file
+2021-01-24T13:45:55.2527544-05:00:2021-01-24T13:45:55.2523589-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Configuration.Json' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.configuration.json\5.0.0\lib\netstandard2.1\Microsoft.Extensions.Configuration.Json.dll'
+2021-01-24T13:45:55.2562685-05:00:2021-01-24T13:45:55.2553624-05:00:Assembly resolving Microsoft.Extensions.FileProviders.Physical, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2570643-05:00:2021-01-24T13:45:55.2566742-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Physical' from .deps.json file
+2021-01-24T13:45:55.2581583-05:00:2021-01-24T13:45:55.2577188-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Physical' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.fileproviders.physical\5.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Physical.dll'
+2021-01-24T13:45:55.2602752-05:00:2021-01-24T13:45:55.2597740-05:00:Assembly resolving Microsoft.Extensions.FileProviders.Abstractions, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.2611148-05:00:2021-01-24T13:45:55.2606971-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.FileProviders.Abstractions' from .deps.json file
+2021-01-24T13:45:55.2626603-05:00:2021-01-24T13:45:55.2618361-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.FileProviders.Abstractions' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.fileproviders.abstractions\5.0.0\lib\netstandard2.0\Microsoft.Extensions.FileProviders.Abstractions.dll'
+2021-01-24T13:45:55.2649235-05:00:2021-01-24T13:45:55.2644610-05:00:Assembly resolving Microsoft.Extensions.Primitives, Version=5.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-01-24T13:45:55.8051496-05:00:2021-01-24T13:45:55.2652648-05:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.Primitives' from .deps.json file
+2021-01-24T13:45:55.8154766-05:00:2021-01-24T13:45:55.8095945-05:00:[AssemblyCache] Resolved 'Microsoft.Extensions.Primitives' to 'C:\Users\yjxyu\.nuget\packages\microsoft.extensions.primitives\5.0.0\lib\netcoreapp3.0\Microsoft.Extensions.Primitives.dll'
+2021-01-24T13:45:55.8640654-05:00:2021-01-24T13:45:55.8623862-05:00:Assembly resolving System.Text.Json, Version=5.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51
+2021-01-24T13:45:55.8653592-05:00:2021-01-24T13:45:55.8649600-05:00:[AssemblyCache] Trying to resolve 'System.Text.Json' from .deps.json file
+2021-01-24T13:45:55.8664544-05:00:2021-01-24T13:45:55.8660397-05:00:[AssemblyCache] Resolved 'System.Text.Json' to 'C:\Users\yjxyu\.nuget\packages\system.text.json\5.0.0\lib\netcoreapp3.0\System.Text.Json.dll'
+2021-01-24T13:45:56.1109404-05:00:2021-01-24T13:45:56.1075017-05:00:Thread#0:T:done: ShuffleTheCardsStepDefinition.GivenUserShuffleDeckOfCardsWithTrue(1, "True") (0.9s)
+2021-01-24T13:45:56.1236016-05:00:2021-01-24T13:45:56.1163328-05:00:Thread#0:B:When user draw 2 number of cards
+2021-01-24T13:45:56.2235278-05:00:2021-01-24T13:45:56.2099929-05:00:Thread#0:T:done: DrawCardsSteps.WhenUserDrawNumberOfCards(2) (0.1s)
+2021-01-24T13:45:56.2572141-05:00:2021-01-24T13:45:56.2272708-05:00:Thread#0:B:Then success should be True, cards count draw should be 2, remaining cards count should be 52
+2021-01-24T13:45:56.2803333-05:00:2021-01-24T13:45:56.2620971-05:00:Assembly resolving nunit.framework, Version=3.13.0.0, Culture=neutral, PublicKeyToken=2638cd05610744eb
+2021-01-24T13:45:56.2821569-05:00:2021-01-24T13:45:56.2810688-05:00:[AssemblyCache] Trying to resolve 'nunit.framework' from .deps.json file
+2021-01-24T13:45:56.2835549-05:00:2021-01-24T13:45:56.2829684-05:00:[AssemblyCache] Resolved 'nunit.framework' to 'C:\Users\yjxyu\.nuget\packages\nunit\3.13.0\lib\netstandard2.0\nunit.framework.dll'
+2021-01-24T13:45:56.3024154-05:00:2021-01-24T13:45:56.3019273-05:00:Thread#0:T:done: DrawCardsSteps.ThenSuccessShouldBeTrueCardsCountDrawShouldBeRemainingCardsCountShouldBe(True, 2, 52) (0.0s)
+2021-01-24T13:45:56.3159782-05:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-24T13:45:56.3160487-05:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-01-24T13:45:56.3160566-05:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-01-24T13:45:56.3161509-05:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-01-24T13:45:56.3161685-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-01-24T13:45:56.3161706-05:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-01-24T13:45:56.3161729-05:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-01-24T13:45:56.3162148-05:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-01-24T13:45:56.3162606-05:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-01-24T13:45:56.3703264-05:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 1.2124973 seconds
+2021-01-24T13:45:56.3737178-05:00:Thread#0: Test #5/0 is started on thread #0
+2021-01-24T13:45:56.3754833-05:00:2021-01-24T13:45:56.3750371-05:00:Thread#0:B:Given user shuffle 1 deck of cards with False
+2021-01-24T13:45:56.5613038-05:00:2021-01-24T13:45:56.5162761-05:00:Thread#0:T:done: ShuffleTheCardsStepDefinition.GivenUserShuffleDeckOfCardsWithTrue(1, "False") (0.1s)
+2021-01-24T13:45:56.5642016-05:00:2021-01-24T13:45:56.5631660-05:00:Thread#0:B:When user draw 4 number of cards
+2021-01-24T13:45:56.6717066-05:00:2021-01-24T13:45:56.6684023-05:00:Thread#0:T:done: DrawCardsSteps.WhenUserDrawNumberOfCards(4) (0.1s)
+2021-01-24T13:45:56.6813026-05:00:2021-01-24T13:45:56.6771443-05:00:Thread#0:B:Then success should be True, cards count draw should be 4, remaining cards count should be 48
+2021-01-24T13:45:56.6907066-05:00:2021-01-24T13:45:56.6882920-05:00:Thread#0:T:done: DrawCardsSteps.ThenSuccessShouldBeTrueCardsCountDrawShouldBeRemainingCardsCountShouldBe(True, 4, 48) (0.0s)
+2021-01-24T13:45:56.6954057-05:00:Thread#0:Scheduler: get next test for thread 0
+2021-01-24T13:45:56.6955570-05:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-24T13:45:56.6955877-05:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-01-24T13:45:56.6956095-05:00:Thread#0:Scheduler: No more tests for thread
+2021-01-24T13:45:56.7025391-05:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.3286469 seconds
+2021-01-24T13:45:56.7179271-05:00:2021-01-24T13:45:56.7174400-05:00:Got Deinitialize Signal
+2021-01-24T13:45:56.7268442-05:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-01-24T13:45:56.7285237-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-01-24T13:45:56.7329897-05:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-01-24T13:45:56.7394742-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en-US, PublicKeyToken=b03f5f7f11d50a3a
+2021-01-24T13:45:56.7395218-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' from .deps.json file
+2021-01-24T13:45:56.7395434-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' from .deps.json
+2021-01-24T13:45:56.7395611-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:56.7395687-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-01-24T13:45:56.7397803-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-01-24T13:45:56.7399618-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1'
+2021-01-24T13:45:56.7399905-05:00:TargetFramework: .NETCoreApp,Version=v3.1
+2021-01-24T13:45:56.7401444-05:00:Tfm: netcoreapp3.1
+2021-01-24T13:45:56.7401647-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-01-24T13:45:56.7401709-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.dll'
+2021-01-24T13:45:56.7403635-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1\System.Diagnostics.Process.resources.exe'
+2021-01-24T13:45:56.7405471-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\bin\Debug\netcoreapp3.1\SpecFlowPlusRunner\netcoreapp3.1'
+2021-01-24T13:45:56.7582699-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2021-01-24T13:45:56.7582934-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2021-01-24T13:45:56.7584438-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2021-01-24T13:45:56.7585509-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\3.1.9'
+2021-01-24T13:45:56.7588767-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2021-01-24T13:45:56.7588952-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2021-01-24T13:45:56.7590058-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2021-01-24T13:45:56.7591045-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.9'
+2021-01-24T13:45:56.7593868-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2021-01-24T13:45:56.7594009-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.dll'
+2021-01-24T13:45:56.7595216-05:00:[AssemblyCache] Trying to resolve 'System.Diagnostics.Process.resources' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9\System.Diagnostics.Process.resources.exe'
+2021-01-24T13:45:56.7596174-05:00:[AssemblyCache] Could not resolve 'System.Diagnostics.Process.resources' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\3.1.9'
+2021-01-24T13:45:56.7612250-05:00:Assembly resolving System.Diagnostics.Process.resources, Version=4.2.2.0, Culture=en, PublicKeyToken=b03f5f7f11d50a3a
+2021-01-24T13:45:56.7730651-05:00:Thread#-1:Scheduler: get next test for thread -1
+2021-01-24T13:45:56.7731201-05:00:Thread#:Scheduler: at the end of normal test queue
+2021-01-24T13:45:56.7731400-05:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-01-24T13:45:56.7757317-05:00;Thread#12;Info;test run finished
+2021-01-24T13:45:56.7759573-05:00;Thread#12;Info;publishing test results
+2021-01-24T13:45:56.7763144-05:00;Thread#12;Info;Not publishing results.
+2021-01-24T13:45:56.7764397-05:00;Thread#12;Info;test results published
+2021-01-24T13:45:56.7765652-05:00;Thread#12;Info;generating reports
+2021-01-24T13:45:56.9440108-05:00;Thread#12;Info;Starting external report generation process
+2021-01-24T13:45:58.7179875-05:00;Thread#12;Info;Successfully generated reports.
+2021-01-24T13:45:58.7210577-05:00;Thread#12;Info;Successfully generated reports
+2021-01-24T13:45:58.7289647-05:00:Total: 2
+2021-01-24T13:45:58.7318754-05:00:Succeeded: 2
+2021-01-24T13:45:58.7322559-05:00:Ignored: 0
+2021-01-24T13:45:58.7325635-05:00:Pending: 0
+2021-01-24T13:45:58.7325726-05:00:Skipped: 0
+2021-01-24T13:45:58.7328675-05:00:Failed: 0
+2021-01-24T13:45:58.7394665-05:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-01-24T13:45:58.7395754-05:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\yjxyu\source\repos\DeckOfCardsTesting\TestResults\Unnamed project__2021-01-24T134551.html'
+========== End of log file ==========
