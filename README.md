@@ -33,7 +33,8 @@ This test framework support multiple dataset iteration. The data is separated by
 
 #How to run test?
 User can run the test directly from visual studio->Test Explorer. Organize the test cases by different category, run particular test or test set.
-User can also run the test from command line using <dotnet test>, below is a few sample commands:
+User can also run the test from command line using .NET CLI. It is included with the .NET SDK. To learn how to install the .NET SDK, see https://docs.microsoft.com/en-us/dotnet/core/tools/.
+Below are a few sample commands:
 dotnet test [options] <PROJECT | SOLUTION> [[--] <RunSettings arguments>...]]
 Common options include:
   -h, --help                               Show command line help.
